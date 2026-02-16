@@ -1,0 +1,25 @@
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare_Manager.Form1.resources
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.csproj.GenerateResource.cache
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.AssemblyInfoInputs.cache
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.AssemblyInfo.cs
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.csproj.CoreCompileInputs.cache
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.csproj.AssemblyReference.cache
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\VetCare Manager.exe
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\VetCare Manager.deps.json
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\VetCare Manager.runtimeconfig.json
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\VetCare Manager.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\VetCare Manager.pdb
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare .EB1E4263.Up2Date
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\refint\VetCare Manager.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.pdb
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare Manager.genruntimeconfig.cache
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\ref\VetCare Manager.dll
+C:\Users\Papi\Desktop\lab1\72573lab2\VetCare Manager\obj\Debug\net10.0-windows\VetCare_Manager.Properties.Resources.resources
